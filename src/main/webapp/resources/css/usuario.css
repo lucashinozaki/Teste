@@ -1,0 +1,60 @@
+body{
+    background-color: #FFFFFF;
+    font-family:Comic Sans;
+    width: 940px;
+    margin: auto;						
+}
+
+h1{
+	background-color:#FFFFFF;
+	padding-top:5px;
+	padding-left:5px;
+	padding-bottom:5px;
+	padding-right:5px;
+	color:#FF0000;
+	text-align:center; /* hack para o IE */
+}
+
+#menu ul {
+padding: 0px;
+margin:50 px;
+float: center;
+width: 100%;
+background-color:white;
+list-style:none;
+font:Comic Sans;
+}
+ 
+#menu ul li { display: inline; }
+ 
+#menu ul li a {
+background-color:white;
+color: red;
+text-decoration: none;
+border-bottom:20px solid white;
+padding: 30px 70px;
+float:;
+font: comic-sans;
+}
+ 
+#menu ul li a:hover {
+background-color:white;
+color: red;
+border-bottom:5px solid #EA0000;
+}
+
+td {
+color:#FF0000;
+/* a cor vermelha para as letras */
+}
+
+.cadastrar{
+	background-color: #FF0000;;
+	color: #FFFFFF;
+}
+
+.limpar{
+	background-color: #FF0000;;
+	color: #FFFFFF;
+}
+
