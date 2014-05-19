@@ -8,7 +8,9 @@
 	<script src="resources/jquery.js" type="text/javascript"></script>   
 </head>
 
-<body>
+<body brcolor="pink">
+
+<h1>Rosinha kkkkkkkk!</h1>
 		<div id="menu" align="center">
 		<ul>
 		<li><a href="index.jsp">Home</a></li>
