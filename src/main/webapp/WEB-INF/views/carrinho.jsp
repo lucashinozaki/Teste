@@ -22,7 +22,7 @@
 		<div id="barradebusca">
 		<h1>Naaky Games</h1>
 		<input type="search" name="googlesearch"><input type="button" value="pesquisar">
-		</br></br>
+
 		</div>
 
 
