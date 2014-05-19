@@ -69,7 +69,7 @@
 		onMouseOut="this.src='resources/imagens/Nintendo.jpg'" width="500" height="300"></img></a> 
 		<p>Valor:R$489,90</p>
 				<p>12x R$48,83<p>
-		<p>sem juros	</p>	
+		<p>sem juros (Teste spring )	</p>	
 		</font>
 		</div>
 
